@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServerPack version="3.3" xmlns="http://www.mcupdater.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.mcupdater.com http://files.mcupdater.com/ServerPackv2.xsd">
+
+  <Server 
+    id="studio.axzet.kingdomcum" 
+    name="Servidor Kingdom Cum" 
+    newsUrl="about:blank"
+    version="1.21.1" 
+    revision="1"
+    autoConnect="true"
+    mainClass="cpw.mods.bootstraplauncher.BootstrapLauncher"
+    >
+
+    <Loader type="NeoForge" version="21.1.122" loadOrder="0"/>
+    <Module name="jei-1.21.1-neoforge-19.21.0.247" id="jei-1.21.1-neoforge-19.21.0.247">
+        <URL priority="0">https://madoka.brage.info/pack/packs/e34_5/mods/jei-1.21.1-neoforge-19.21.0.247.jar</URL>
+        <ModPath>mods/jei-1.21.1-neoforge-19.21.0.247.jar</ModPath>
+        <ModType>Regular</ModType>
+        <MD5>6518e8d125958d51540b03faab99c97e</MD5>
+</Module>
+</Server>
+</ServerPack>
