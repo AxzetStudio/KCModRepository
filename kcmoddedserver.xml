@@ -14,11 +14,16 @@
     >
 
     <Loader type="NeoForge" version="21.1.122" loadOrder="0"/>
-    <Module name="jei-1.21.1-neoforge-19.21.0.247" id="jei-1.21.1-neoforge-19.21.0.247">
+    <Module name="JEI" id="jei-1.21.1-neoforge-19.21.0.247">
         <URL priority="0">https://madoka.brage.info/pack/packs/e34_5/mods/jei-1.21.1-neoforge-19.21.0.247.jar</URL>
         <ModPath>mods/jei-1.21.1-neoforge-19.21.0.247.jar</ModPath>
         <ModType>Regular</ModType>
         <MD5>6518e8d125958d51540b03faab99c97e</MD5>
-</Module>
+    </Module>
+    <Module name="Macaw's Bridges" id="mcw-bridges-3.1.1-mc1.21.1neoforge.jar">
+      <URL priority="0">https://edge.forgecdn.net/files/6543/002/mcw-bridges-3.1.1-mc1.21.1neoforge.jar</URL>
+      <ModPath>mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar</ModPath>
+      <ModType>Regular</ModType>
+    </Module>
 </Server>
 </ServerPack>
