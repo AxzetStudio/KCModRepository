@@ -25,5 +25,10 @@
       <ModPath>mods/mcw-bridges-3.1.1-mc1.21.1neoforge.jar</ModPath>
       <ModType>Regular</ModType>
     </Module>
+    <Module name="Xaero's Minimap" id="Xaeros_Minimap_25.2.6_NeoForge_1.21.jar">
+      <URL priority="0">https://edge.forgecdn.net/files/6515/043/Xaeros_Minimap_25.2.6_NeoForge_1.21.jar</URL>
+      <ModPath>mods/Xaeros_Minimap_25.2.6_NeoForge_1.21.jar</ModPath>
+      <ModType>Regular</ModType>
+    </Module>
 </Server>
 </ServerPack>
